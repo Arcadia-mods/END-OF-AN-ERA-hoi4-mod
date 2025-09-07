@@ -1,0 +1,35 @@
+﻿capital = 271
+oob = "Generic_1988_nsb"
+
+set_stability = 0.4
+set_war_support = 0.3
+add_ideas = {
+}
+
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1934.3.26"
+	election_frequency = 60
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 15
+	fascism = 60
+	communism = 15
+	neutrality = 10
+}
+
+recruit_character = AOI_prince_amedeo 
+recruit_character = AOI_enrico_cerulli
+recruit_character = AOI_guglielmo_nasi
+recruit_character = AOI_ruggero_santini
+recruit_character = AOI_vincenzo_de_feo
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

@@ -1,0 +1,22 @@
+﻿capital = 304
+oob = "Generic_1988_nsb"
+
+set_country_flag = monroe_doctrine
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1932.6.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 100
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

@@ -1,0 +1,14 @@
+state={
+	id=985
+	name="STATE_985"
+	provinces={
+		1995 7916 7984 10789 12769 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+history={
+	owner = AFG
+	add_core_of = AFG
+}
+}

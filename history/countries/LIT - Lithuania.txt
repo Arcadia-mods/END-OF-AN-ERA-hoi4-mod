@@ -1,0 +1,24 @@
+﻿capital = 11
+
+oob = "Generic_1988_nsb"
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1926.5.8"
+	election_frequency = 120
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 30
+	fascism = 15
+	communism = 15
+	neutrality = 40
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

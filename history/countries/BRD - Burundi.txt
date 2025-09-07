@@ -1,0 +1,14 @@
+﻿capital = 769
+
+oob = "Generic_1988_nsb"
+
+
+
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

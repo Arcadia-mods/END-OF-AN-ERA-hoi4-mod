@@ -1,0 +1,21 @@
+﻿capital = 303
+oob = "Generic_1988_nsb"
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1931.10.11"
+	election_frequency = 96
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 49
+	fascism = 51
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}
