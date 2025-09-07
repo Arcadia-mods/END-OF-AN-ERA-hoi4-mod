@@ -1,0 +1,24 @@
+state={
+	id=982
+	name="STATE_982"
+	provinces={
+		13366 
+	}
+	category = metropolitan
+	history={
+	owner = GER
+	add_core_of = GER
+	add_core_of = DDR
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			13366 5 
+		}
+
+	}
+	manpower=2130525
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

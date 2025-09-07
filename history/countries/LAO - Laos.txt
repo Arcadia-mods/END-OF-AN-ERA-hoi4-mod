@@ -1,0 +1,56 @@
+﻿capital = 670 #today Vientiane in 1945 Luang Prabang sel proclaimed indie Laos 
+
+oob = "Generic_1988_nsb"
+
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.2.16"
+	election_frequency = 36
+	elections_allowed = yes
+}
+set_popularities = {
+	communism = 100
+}
+
+create_country_leader = {
+	name = "Souphanouvong"
+	desc = ""
+	picture = GFX_portrait_Souphanouvong
+	expire = "1953.3.1"
+	ideology = marxism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Sisavang Vong"
+	desc = ""
+	picture = GFX_portrait_Sisavang_Vong
+	expire = "1953.3.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kou Voragong" 
+	desc = ""
+	picture = GFX_portrait_Kou_Voragong
+	expire = "1953.3.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+}
+
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

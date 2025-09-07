@@ -1,0 +1,26 @@
+﻿capital = 101 #Nuuk
+
+oob = "Generic_1988_nsb"
+
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1933.10.16"
+	election_frequency = 36
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 94
+	fascism = 2
+	communism = 2
+	neutrality = 2
+}
+
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

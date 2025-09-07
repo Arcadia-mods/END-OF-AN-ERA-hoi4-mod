@@ -1,0 +1,24 @@
+﻿capital = 475 #Chiapas
+
+oob = "Generic_1988_nsb"
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1934.2.11"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 15
+	communism = 5
+	neutrality = 80
+	fascism = 0
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

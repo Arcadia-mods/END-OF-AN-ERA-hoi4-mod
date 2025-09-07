@@ -1,0 +1,68 @@
+spriteTypes = {	
+
+		# UNITED KINGDOM
+		
+		# MANPATs
+
+	SpriteType = {
+		name = "GFX_ENG_manpat_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_manpat_1.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_manpat_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_manpat_2.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_manpat_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_manpat_3.dds"
+	}
+	
+		# Rifles
+
+	SpriteType = {
+		name = "GFX_ENG_rifle_equipment_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_rifle_equipment_0.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_rifle_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_rifle_equipment_1.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_rifle_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_rifle_equipment_2.dds"
+	}
+	
+		# Utility Vehicles
+
+	SpriteType = {
+		name = "GFX_ENG_utility_vehicle_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_utility_vehicle.dds"
+	}
+	
+		# Tanks
+
+	SpriteType = {
+		name = "GFX_ENG_main_battle_tank_chassis_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_main_battle_tank_chassis_0.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_main_battle_tank_chassis_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_main_battle_tank_chassis_1.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_main_battle_tank_chassis_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_main_battle_tank_chassis_2.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_main_battle_tank_chassis_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_main_battle_tank_chassis_3.dds"
+	}
+
+}

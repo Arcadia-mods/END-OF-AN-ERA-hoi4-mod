@@ -1,0 +1,25 @@
+﻿capital = 948 # Easter Island
+# Based on the Chilean history file
+
+oob = "Generic_1988_nsb"
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1932.10.30"
+	election_frequency = 72  #but 4 years after this one in 1938.
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 20
+	communism = 10
+	fascism = 0
+	neutrality = 70
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

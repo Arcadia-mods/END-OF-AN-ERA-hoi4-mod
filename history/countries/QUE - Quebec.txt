@@ -1,0 +1,23 @@
+﻿capital = 468 # Montreal (Saint Lawrence)
+oob = "Generic_1988_nsb"
+set_politics = {
+	ruling_party = democratic
+	last_election = "1935.10.14"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 70
+	fascism = 10
+	communism = 15
+	neutrality = 5
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

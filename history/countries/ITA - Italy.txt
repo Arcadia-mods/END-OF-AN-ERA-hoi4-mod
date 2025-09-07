@@ -1,0 +1,22 @@
+﻿capital = 2
+oob = "Generic_1988_nsb"
+set_stability = 0.6
+set_war_support = 0.7
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1934.3.26"
+	election_frequency = 60
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 100
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

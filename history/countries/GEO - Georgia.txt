@@ -1,0 +1,41 @@
+﻿capital = 231 #Tbilisi
+oob = "Generic_1988_nsb"
+
+
+set_popularities = {
+	democratic = 40
+	communism = 40
+	fascism = 10
+	neutrality = 10
+}
+
+create_country_leader = {
+	name = "Noe Zhordania"
+	desc = ""
+	picture = GFX_portrait_Noe_Zhordania
+	expire = "1953.3.1"
+	ideology = liberalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kandid Charkviani"
+	desc = ""
+	picture = GFX_portrait_Kandid_Charkviani
+	expire = "1953.3.1"
+	ideology = stalinism
+	traits = {
+		
+	}
+}
+
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

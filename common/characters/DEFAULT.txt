@@ -1,0 +1,15 @@
+characters = {
+	Default_Country_Leader = {
+		name = "Default Country Leader" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_default_leader_default
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			expire = "42069.1.1.1"
+			id = -1
+		}
+	}
+}
