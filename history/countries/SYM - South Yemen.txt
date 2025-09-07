@@ -1,0 +1,27 @@
+﻿capital = 293
+
+oob = "Generic_1988_nsb"
+
+	declare_war_on = {
+		target = YEM
+		type = annex_everything
+	}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	communism = 100
+}
+
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

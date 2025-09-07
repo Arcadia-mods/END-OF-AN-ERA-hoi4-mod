@@ -1,0 +1,16 @@
+﻿capital = 202 #Kiev
+oob = "Generic_1988_nsb"
+
+set_popularities = {
+	democratic = 20
+	fascism = 30
+	communism = 50
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

@@ -1,0 +1,11 @@
+spriteTypes = {
+
+	### DEFAULT
+
+	spriteType = {
+		name = "GFX_portrait_GER_SDFKLIJSDL:FIKE"
+		texturefile = "gfx/leaders/leaders/leader_default.dds"
+	}
+
+}
+

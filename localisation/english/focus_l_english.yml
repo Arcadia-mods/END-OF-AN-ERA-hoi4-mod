@@ -1,0 +1,134 @@
+﻿l_english:
+ WHILE_FOCUSING:0 "While focusing on this, there will be the following effects:\n$EFF$"
+ generic_focus:0 "National Focus"
+
+
+  industrial_effort:0 "Industrial effort"
+  industrial_effort_desc:0 ""
+
+  construction_effort:0 "Construction effort I"
+  construction_effort_desc:0 ""
+  construction_effort_2:0 "Construction effort II"
+  construction_effort_2_desc:0 ""
+  construction_effort_3:0 "Construction effort III"
+  construction_effort_3_desc:0 ""
+  construction_effort_4:0 "Construction effort IV"
+  construction_effort_4_desc:0 ""
+  construction_effort_5:0 "Construction effort V"
+  construction_effort_5_desc:0 ""
+
+  extraction_studies:0 "Extraction Studies"
+  extraction_studies_desc:0 ""
+
+  industrial_studies:0 "Industrial Studies"
+  industrial_studies_desc:0 ""
+
+  extra_tech_slot:0 "Research Facility"
+  extra_tech_slot_desc:0 ""
+
+  infrastructure_effort:0 "Infrastructure Effort I"
+  infrastructure_effort_desc:0 ""
+  infrastructure_effort_2:0 "Infrastructure Effort II"
+  infrastructure_effort_2_desc:0 ""
+  infrastructure_effort_3:0 "Infrastructure Effort III"
+  infrastructure_effort_3_desc:0 ""
+
+  economic_boom:0 "Economic Boom"
+  economic_boom_desc:0 ""
+
+  resource_excploitation:0 "Resource Exploitation"
+  resource_excploitation_desc:0 ""
+
+  production_effort:0 "Manufactoring effort I"
+  production_effort_desc:0 ""
+  production_effort_2:0 "Manufactoring effort II"
+  production_effort_2_desc:0 ""
+  production_effort_3:0 "Manufactoring effort III"
+  production_effort_3_desc:0 ""
+
+  deep_mining:0 "Deep Mining"
+  deep_mining_desc:0 ""
+
+  manufactoring_initiative:0 "Manufactoring initiative"
+  manufactoring_initiative_desc:0 ""
+
+  mobelize_the_industry:0 "Mobelize the industry"
+  mobelize_the_industry_desc:0 ""
+
+  foreign_investors:0 "Foreign investors"
+  foreign_investors_desc:0 ""
+
+  political_effort:0 "Political Effort"
+  political_effort_desc:0 ""
+
+  collectivist_ethos:0 "Collectivist Ethos"
+  collectivist_ethos_desc:0 ""
+
+  liberty_ethos:0 "Liberty Ethos"
+  liberty_ethos_desc:0 ""
+
+  nationalism_focus:0 "Nationalism Focus"
+  nationalism_focus_desc:0 ""
+
+  internationalism_focus:0 "Internationalism Focus"
+  internationalism_focus_desc:0 ""
+
+  neutrality_focus:0 "Neutrality Focus"
+  neutrality_focus_desc:0 ""
+
+  interventionism_focus:0 "Interventionism Focus"
+  interventionism_focus_desc:0 ""
+
+  militarism:0 "Militarism"
+  militarism_desc:0 ""
+
+  political_correctness:0 "Political Correctness"
+  political_correctness_desc:0 ""
+
+  military_youth:0 "Military Youth"
+  military_youth_desc:0 ""
+
+  indoctrination_focus:0 "Indoctrination Focus"
+  indoctrination_focus_desc:0 ""
+
+  paramilitarism:0 "Paramilitarism"
+  paramilitarism_desc:0 ""
+
+  political_commissars:0 "Political Commissars"
+  political_commissars_desc:0 ""
+
+  ideological_fanaticism:0 "Ideological Fanaticism"
+  ideological_fanaticism_desc:0 ""
+
+  deference:0 "Deference"
+  deference_desc:0 ""
+
+  why_we_fight:0 "Why We Fight"
+  why_we_fight_desc:0 ""
+
+  volunteer_corps:0 "Volunteer Corps"
+  volunteer_corps_desc:0 ""
+
+  foreign_expeditions:0 "Foreign Expeditions"
+  foreign_expeditions_desc:0 ""
+
+  independence_guarantees:0 "Independence Guarantee"
+  independence_guarantees_desc:0 ""
+
+  technology_sharing:0 "Technology Sharing"
+  technology_sharing_desc:0 ""
+
+  country_specific:0 "Country Specific"
+  country_specific_desc:0 ""
+
+  german_reunification:0 "German Reunification"
+  german_reunification_desc:0 ""
+
+  chineese_imperialism:0 "Chinese Imperialism"
+  chineese_imperialism_desc:0 ""
+
+  secure_posphorus_strait:0 "Secure Bosphorus Strait"
+  secure_posphorus_strait_desc:0 ""
+
+  chineese_reunification:0 "Chinese Reunification"
+  chineese_reunification_desc:0 ""

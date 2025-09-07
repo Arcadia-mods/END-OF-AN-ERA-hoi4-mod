@@ -1,0 +1,47 @@
+﻿capital = 430
+
+oob = "Generic_1988_nsb"
+
+
+recruit_character = BAN_pot
+recruit_character = BAN_aco2
+recruit_character = BAN_mt
+recruit_character = BAN_ar
+recruit_character = BAN_fascist_guy
+recruit_character = BAN_acd2
+recruit_character = BAN_ncm
+recruit_character = BAN_ai2
+recruit_character = BAN_acas
+recruit_character = BAN_democratic_guy
+recruit_character = BAN_aa2
+recruit_character = BAN_awt
+recruit_character = BAN_coi
+recruit_character = BAN_stc
+recruit_character = BAN_acgs
+recruit_character = BAN_nccr
+recruit_character = BAN_ncs
+recruit_character = BAN_nt
+recruit_character = BAN_communist_guy
+recruit_character = BAN_acr
+
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 75
+	fascism = 1
+	communism = 1
+	neutrality = 23
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

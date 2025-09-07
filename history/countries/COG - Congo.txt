@@ -1,0 +1,53 @@
+﻿capital = 295
+
+oob = "Generic_1988_nsb"
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1932.10.30"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 100
+}
+
+create_country_leader = {
+	
+	name = "François Tolenga"
+	picture = GFX_portrait_Francois_Tolenga
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		compassionate_gentleman
+	}
+}
+create_country_leader = {
+	
+	name = "Lumumba Lomendja"
+	picture = GFX_portrait_Lumumba_Lomendja
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+		silent_workhorse
+	}
+}
+
+create_country_leader = {
+	
+	name = "David Manera"
+	picture = GFX_portrait_David_Manera
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

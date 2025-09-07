@@ -1,0 +1,32 @@
+﻿capital = 111
+
+oob = "Generic_1988_nsb"
+
+### COUNTRY LEADERS ###
+store_core_states_on_game_start = yes
+#Set Kokoomus as Non-Aligned party #TODO_Manu: I can now kill the old string and be done with this
+set_party_name = {
+	ideology = neutrality
+	name = FIN_neutrality_party_kokoomus
+	long_name = FIN_neutrality_party_kokoomus_long
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 100
+}
+add_stability = -0.1
+
+set_research_slots = 4
+set_convoys = 20
+
+# Starting tech
+set_technology = {
+
+}

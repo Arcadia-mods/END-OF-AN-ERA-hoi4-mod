@@ -1,0 +1,18 @@
+state={
+	id=986
+	name="STATE_986"
+	provinces={
+		13367 
+	}
+	victory_points = {
+		13367 5
+	}
+	manpower=776000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+history={
+	owner = PAL
+	add_core_of = PAL
+	add_core_of = ISR
+}
+}

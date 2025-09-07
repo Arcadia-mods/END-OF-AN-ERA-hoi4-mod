@@ -1,0 +1,49 @@
+
+state={
+	id=267
+	name="STATE_267"
+	resources={
+		tungsten=3.000
+	}
+
+	history={
+		owner = DRA
+#		DRA = {
+#			set_province_controller = 7519
+#			set_province_controller = 7584
+#			set_province_controller = 12635
+#			set_province_controller = 13377
+#			set_province_controller = 13380
+#			set_province_controller = 13387
+#			set_province_controller = 13382
+#			set_province_controller = 13383
+#			set_province_controller = 13384
+#			set_province_controller = 13392
+#			set_province_controller = 13390
+#
+#		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			10737 5 
+		}
+		victory_points = {
+			12248 1 
+		}
+		add_core_of = AFG
+		add_core_of = DRA
+
+	}
+
+	provinces={
+		5082 7448 7519 7584 10476 10737 10781 10826 10852 10896 12248 12314 12653 12831 12877 13377 13378 13380 13381 13382 13383 13384 13386 13387 
+	}
+	manpower=4637140
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

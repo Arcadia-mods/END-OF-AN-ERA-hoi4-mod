@@ -1,0 +1,608 @@
+spriteTypes = {
+
+###################### aps ######################
+
+	spriteType = {
+		name = "GFX_EMI_ircm"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_ircm2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_ircm3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_ircm4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx4.dds"
+		legacy_lazy_load = no
+	}
+
+###################### aps ######################
+
+	spriteType = {
+		name = "GFX_EMI_aps"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_aps2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_aps3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_aps4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx4.dds"
+		legacy_lazy_load = no
+	}
+
+###################### anti mine weapons ######################
+
+	spriteType = {
+		name = "GFX_EMI_mine_plow"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/mine_plow.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_mine_roller"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_mine_trawl"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+###################### special features ######################
+
+	spriteType = {
+		name = "GFX_EMI_stabilizer"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/stabelizer.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_additional_machine_guns"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/mg.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_armor_skirts"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/armor_skirts.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_easy_maintenance"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/easy_maintnance.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_expanded_fuel_tank"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/fuel.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_smoke_launchers"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/smoke_launcher.dds"
+		legacy_lazy_load = no
+	}
+
+###################### loaders ######################
+
+	spriteType = {
+		name = "GFX_EMI_auto_loader1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/tank_module_autoloader.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_manual_loading1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_revolver_loading1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/revolver_loading.dds"
+		legacy_lazy_load = no
+	}
+
+###################### ammo storage ######################
+
+	spriteType = {
+		name = "GFX_EMI_small_ammo_rack1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/small_ammo_storage.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_medium_ammo_rack1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_large_ammo_rack1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/large_ammo_storage.dds"
+		legacy_lazy_load = no
+	}
+
+###################### turret ######################
+
+# rifled
+
+	spriteType = {
+		name = "GFX_EMI_rifled_1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/rifled1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_rifled_2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/rifled2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_rifled_3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/rifled3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_rifled_4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/rifled4.dds"
+		legacy_lazy_load = no
+	}
+
+# smoothbore
+
+	spriteType = {
+		name = "GFX_EMI_smooth_bore_1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/smoothbore1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_smooth_bore_2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/smoothbore2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_smooth_bore_3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/smoothbore3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_smooth_bore_4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/smoothbore4.dds"
+		legacy_lazy_load = no
+	}
+
+###################### turret ######################
+
+	spriteType = {
+		name = "GFX_EMI_MBT_tank_turret_cast"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/cast_turret.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_MBT_tank_turret_welded"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/welded_turret.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_MBT_tank_turret_oscillating"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+###################### reactive armor ######################
+
+# NXRA
+
+	spriteType = {
+		name = "GFX_EMI_reactive_nxra_armor"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_nxra_armor2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_reactive_nxra_armor3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_nxra_armor4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx4.dds"
+		legacy_lazy_load = no
+	}
+
+# ERA
+
+	spriteType = {
+		name = "GFX_EMI_reactive_ERA_armor"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_ERA_armor2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_reactive_ERA_armor3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_ERA_armor4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx4.dds"
+		legacy_lazy_load = no
+	}
+
+# SLERA
+
+	spriteType = {
+		name = "GFX_EMI_reactive_slera_armor"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_slera_armor2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_reactive_slera_armor3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_slera_armor4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx4.dds"
+		legacy_lazy_load = no
+	}
+
+# NERA
+
+	spriteType = {
+		name = "GFX_EMI_reactive_nera_armor"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_nera_armor2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx2.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_reactive_nera_armor3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_reactive_nera_armor4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx4.dds"
+		legacy_lazy_load = no
+	}
+
+###################### armor ######################
+
+	spriteType = {
+		name = "GFX_EMI_tank_steel_armor"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/steel1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_composite_armor"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/composite1.dds"
+		legacy_lazy_load = no
+	}
+
+###################### engines ######################
+
+# gasoline
+
+	spriteType = {
+		name = "GFX_EMI_tank_gasoline_engine"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gasoline1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_tank_gasoline_engine2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gasoline2.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_gasoline_engine3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gasoline3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_gasoline_engine4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gasoline4.dds"
+		legacy_lazy_load = no
+	}
+	
+# diesel
+
+	spriteType = {
+		name = "GFX_EMI_tank_diesel_engine"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/diesel1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_tank_diesel_engine2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/diesel2.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_diesel_engine3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/diesel3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_diesel_engine4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/diesel4.dds"
+		legacy_lazy_load = no
+	}
+	
+# tank_electric_engine
+
+	spriteType = {
+		name = "GFX_EMI_tank_electric_engine"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/electric1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_tank_electric_engine2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/electric2.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_electric_engine3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/electric3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_electric_engine4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/electric4.dds"
+		legacy_lazy_load = no
+	}
+	
+# tank_gas_turbine_engine
+
+	spriteType = {
+		name = "GFX_EMI_tank_gas_turbine_engine"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gas_tubine1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_tank_gas_turbine_engine2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gas_tubine2.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_gas_turbine_engine3"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gas_tubine3.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_gas_turbine_engine4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gas_tubine4.dds"
+		legacy_lazy_load = no
+	}
+
+###################### suspensions ######################
+
+	spriteType = {
+		name = "GFX_EMI_tank_hydropneumatic_suspension1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/hydropneumatic1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_torsion_bar_suspension1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/torsion_bar1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_hydraulic_suspension1"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/hydraulic1.dds"
+		legacy_lazy_load = no
+	}
+
+
+##################################################### Tank Categry Icons #####################################################
+
+###################### other ######################
+
+	spriteType = {
+		name = "GFX_EMI_tank_special_module"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/stabelizer.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_mine"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/mine_plow.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_aps_module"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_ircm_module"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+###################### loaders ######################
+
+	spriteType = {
+		name = "GFX_EMI_auto_loader"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/tank_module_autoloader.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_manual_loading"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_EMI_revolver_loading"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/revolver_loading.dds"
+		legacy_lazy_load = no
+	}
+
+###################### gun type ######################
+
+	spriteType = {
+		name = "GFX_EMI_rifled_type"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/rifled1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_smooth_bore_type"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/smoothbore1.dds"
+		legacy_lazy_load = no
+	}
+
+###################### reactive armor ######################
+
+	spriteType = {
+		name = "GFX_EMI_tank_era"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_slera"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_nera"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_tank_nxra"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/no_available_gfx1.dds"
+		legacy_lazy_load = no
+	}
+
+###################### engines ######################
+	spriteType = {
+		name = "GFX_EMI_gasoline_engine_type"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gasoline1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_diesel_engine_type"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/diesel1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_electric_engine_type"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/electric1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_gas_turbine_engine_type"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/gas_tubine1.dds"
+		legacy_lazy_load = no
+	}
+	
+###################### suspensions ######################
+	spriteType = {
+		name = "GFX_EMI_hydraulic_suspension"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/hydraulic1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_torsion_bar_suspension"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/torsion_bar1.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_hydropneumatic_suspension"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/hydropneumatic1.dds"
+		legacy_lazy_load = no
+	}
+
+
+
+}
