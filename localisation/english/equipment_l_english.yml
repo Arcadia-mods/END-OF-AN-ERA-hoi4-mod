@@ -448,6 +448,31 @@
  anti_air_equipment_1_short:0 "Manpads I"
  anti_air_equipment_1_desc:0 "Man-portable air-defense system."
 
+  modern_artillery_equipment_1:0 "Self-Propelled Artillery 1"
+  modern_artillery_equipment_1_short:0 "SPA 1"
+  modern_artillery_equipment_1_desc:0 "A modern artillery system mounted on a mobile chassis, combining the firepower of heavy guns with the mobility of armored vehicles."
+
+  modern_artillery_equipment_2:0 "Self-Propelled Artillery 2"
+  modern_artillery_equipment_2_short:0 "SPA 2"
+  modern_artillery_equipment_2_desc:0 "A modern artillery system mounted on a mobile chassis, combining the firepower of heavy guns with the mobility of armored vehicles."
+
+  modern_artillery_equipment_3:0 "Self-Propelled Artillery 3"
+  modern_artillery_equipment_3_short:0 "SPA 3"
+  modern_artillery_equipment_3_desc:0 "A modern artillery system mounted on a mobile chassis, combining the firepower of heavy guns with the mobility of armored vehicles."
+
+  modern_aa_equipment_1:0 "Self-Propelled Anti-Air 1"
+  modern_aa_equipment_1_short:0 "SPAA 1"
+  modern_aa_equipment_1_desc:0 "A mobile anti-aircraft platform designed to protect advancing units from enemy aircraft, combining mobility with rapid-firing guns."
+
+  modern_aa_equipment_2:0 "Self-Propelled Anti-Air 2"
+  modern_aa_equipment_2_short:0 "SPAA 2"
+  modern_aa_equipment_2_desc:0 "An improved self-propelled anti-aircraft system featuring better targeting equipment and enhanced firepower for greater effectiveness against modern aircraft."
+
+  modern_aa_equipment_3:0 "Self-Propelled Anti-Air 3"
+  modern_aa_equipment_3_short:0 "SPAA 3"
+  modern_aa_equipment_3_desc:0 "A highly advanced self-propelled anti-aircraft vehicle equipped with radar guidance and rapid-response weapons to counter even the fastest jets and helicopters."
+
+
  anti_tank_equipment_1:0 "ATGM I"
  anti_tank_equipment_1_short:0 "ATGM I"
  anti_tank_equipment_1_desc:0 "Anti-tank guided missile."

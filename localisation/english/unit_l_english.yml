@@ -1,9 +1,20 @@
 ﻿l_english:
+ modern_spaa:0 "Modern Self-Propelled Anti-Air"
+ modern_spaa_desc:0 "A powerful mobile anti-air unit built on a modern chassis, providing superior air defense and armored support to frontline divisions."
+ 
+ modern_spa:0 "Modern Self-Propelled Artillery"
+ modern_spa_desc:0 "Modern artillery mounted on an armored chassis, allowing it to keep pace with mechanized and armored divisions while providing devastating long-range fire support."
+ 
+ support_modern_spaa:0 "Modern Self-Propelled Anti-Air Battalion"
+ support_modern_spaa_desc:0 "A smaller, more mobile anti-air unit designed to be attached to divisions as a support company, offering flexible air defense for armored and motorized brigades."
+ 
+ support_modern_spa:0 "Modern Self-Propelled Artillery Battalion"
+ support_modern_spa_desc:0 "A flexible and mobile artillery unit designed as a support company, providing a division with immediate fire support without the need for a full combat battalion."
  night:0 "Night"
  fort:0 "Fort"
  river:0 "River"
  amphibious:0 "Amphibious"
- snow: "Snow"
+ snow:0 "Snow"
  CURRENT_STRENGTH:0 "Current Fighting Strength: $PER|%0H$\n"
  CURRENT_MANPOWER:0 " - Current Manpower: $VAL|*H1$ ($PER|%0H$)\n"
  CURRENT_EQUIPMENT_RATIO:0 " - Current Equipment ratio: $PER|%0H$\n"

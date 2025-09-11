@@ -63,6 +63,102 @@ sub_units = {
 		}
 	}
 
+support_modern_spaa = {
+    abbreviation = "SPAA"
+    sprite = "medium_armor"
+    map_icon_category = support
+    priority = 2510
+    ai_priority = 3510
+    active = yes
+    unit_type = support
+    is_support = yes
+
+    type = {
+        support_artillery
+    }
+
+    group = support
+
+    categories = {
+        category_support
+        category_all_armor
+        category_army
+    }
+
+    combat_width = 1
+
+    need = {
+        modern_aa_equipment = 10
+    }
+    manpower = 100
+    max_organisation = 10
+    max_strength = 2
+    default_morale = 0.3
+    training_time = 180
+    weight = 0.5
+
+    supply_consumption = 0.05
+
+    suppression = 0.5
+
+    forest = { movement = -0.4 }
+    hills = {}
+    mountain = {}
+    jungle = { movement = -0.4 }
+    marsh = { movement = -0.1 }
+    urban = { defence = -0.1 }
+    river = { movement = -0.2 }
+    amphibious = {}
+}
+
+support_modern_spa = {
+    abbreviation = "SPA"
+    sprite = "medium_armor"
+    map_icon_category = support
+    priority = 2510
+    ai_priority = 3510
+    active = yes
+    unit_type = support
+    is_support = yes
+
+    type = {
+        support_artillery
+    }
+
+    group = support
+
+    categories = {
+        category_support
+        category_all_armor
+        category_army
+    }
+
+    combat_width = 1
+
+    need = {
+        modern_artillery_equipment = 10
+    }
+    manpower = 100
+    max_organisation = 10
+    max_strength = 2
+    default_morale = 0.3
+    training_time = 180
+    weight = 0.5
+
+    supply_consumption = 0.05
+
+    suppression = 0.5
+
+    forest = { movement = -0.4 }
+    hills = {}
+    mountain = {}
+    jungle = { movement = -0.4 }
+    marsh = { movement = -0.1 }
+    urban = { defence = -0.1 }
+    river = { movement = -0.2 }
+    amphibious = {}
+}
+
 
 	modern_spa = {
 		abbreviation = "SPAA"

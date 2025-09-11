@@ -1,4 +1,17 @@
 ﻿l_english:
+
+ SP_artillery1:0 "Self-Propelled Artillery I"
+ SP_artillery1_desc:0 "The development of artillery mounted on tracked chassis allows heavy guns to keep pace with mechanized and armored formations, greatly improving battlefield mobility."
+ SP_artillery2:0 "Self-Propelled Artillery II"
+ SP_artillery2_desc:0 "Improved chassis designs, more powerful guns, and better crew protection increase the effectiveness of self-propelled artillery against both soft and fortified targets."
+ SP_artillery3:0 "Self-Propelled Artillery III"
+ SP_artillery3_desc:0 "Advanced fire control systems and high-caliber guns make modern self-propelled artillery capable of delivering devastating fire support while maintaining mobility and survivability."
+ SP_aa1:0 "Self-Propelled Anti-Air I"
+ SP_aa1_desc:0 "Mounting anti-aircraft guns on mobile chassis provides protection for armored and mechanized units on the move, making it harder for enemy aircraft to strike without resistance."
+ SP_aa2:0 "Self-Propelled Anti-Air II"
+ SP_aa2_desc:0 "With better fire-control systems and rapid-firing autocannons, these vehicles offer increased protection against faster and more maneuverable enemy aircraft."
+ SP_aa3:0 "Self-Propelled Anti-Air III"
+ SP_aa3_desc:0 "Equipped with radar guidance and advanced missile or autocannon systems, modern self-propelled anti-air platforms can reliably counter high-speed jets and helicopters on the battlefield."
  RESEARCH_BONUSES_TOOLTIP:0 "Limited technology bonuses we have:"
  RESEARCH_BONUSES_EMPTY_TOOLTIP:0 "Limited technology bonuses will be listed here."
  RESEARCH_BONUS_SPEED_DESC:1 "§Y$COUNT$x§! $VALUE|G%0$ research speed from $NAME$"

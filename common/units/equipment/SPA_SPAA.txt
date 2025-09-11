@@ -85,6 +85,30 @@ equipments = {
         fuel_consumption = 3
     }
 
+    modern_artillery_equipment_3 = {
+        year = 1945
+        archetype = modern_artillery_equipment
+        parent = modern_artillery_equipment_2
+        priority = 200
+        soft_attack = 60
+        hard_attack = 5
+        ap_attack = 15
+        air_attack = 0
+        visual_level = 0
+        can_convert_from = { 
+            modern_artillery_equipment_2
+        }
+
+        resources = {
+            oil = 1
+            steel = 3
+            chromium = 4
+        }
+        
+        build_cost_ic = 30
+        fuel_consumption = 3
+    }
+
     # Self-Propelled Anti-Aircraft Equipment (Initial Version)
     modern_aa_equipment = {
         year = 1934
@@ -166,6 +190,31 @@ equipments = {
         hard_attack = 8
         ap_attack = 120
         air_attack = 25
+        
+        build_cost_ic = 32
+        fuel_consumption = 1.75
+    }
+
+    modern_aa_equipment_3 = {
+        year = 1950
+        archetype = modern_aa_equipment
+        parent = modern_aa_equipment_2
+        priority = 195
+        visual_level = 1
+        can_convert_from = { 
+            modern_aa_equipment_2
+        }
+
+        resources = {
+            oil = 1
+            steel = 3
+            chromium = 4
+        }
+        
+        soft_attack = 15
+        hard_attack = 10
+        ap_attack = 120
+        air_attack = 30
         
         build_cost_ic = 32
         fuel_consumption = 1.75
