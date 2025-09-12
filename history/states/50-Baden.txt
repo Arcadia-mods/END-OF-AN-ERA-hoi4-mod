@@ -14,6 +14,7 @@ state = {
 		owner = GER
 		add_core_of = GER
 		add_core_of = WUR
+		add_core_of = DDR
 
 		victory_points = {
 			9517 20 #Stuttgart
@@ -29,13 +30,7 @@ state = {
 			industrial_complex = 1
 			air_base = 2
 		}
-		
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 8
-				industrial_complex = 2
-			}
-		}
+
 
 	}
 
