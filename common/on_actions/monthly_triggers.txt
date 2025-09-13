@@ -1,0 +1,5 @@
+on_monthly = {
+    every_country = {
+        economy_calculate_monthly_gdp
+    }
+}

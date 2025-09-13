@@ -1,0 +1,90 @@
+#All-in-One Calculation
+#This is the full calculation for your monthly income:
+
+#Here are the updated formulas with resource_bonus removed, as requested.
+
+#All-in-One Calculation
+#Income = ( (num_civs * 0.05) + (num_offices * 0.3) ) * (1 + (corporate_tax + military_tax + population_tax) ) * 0.7 #0.7 "productivity" but mostly used for now as a balancing method
+
+#Individual Calculation Steps
+#1. GDP from Buildings
+#Total_GDP = (num_civs * 0.05) + (num_offices * 0.3)
+
+#2. Total Tax Rate
+#Total_Tax_Rate = corporate_tax + military_tax + population_tax
+
+#3. Final Income
+#Income = Total_GDP * (1 + Total_Tax_Rate) * 0.7 #0.7 "productivity" but mostly used for now as a balancing method
+
+
+
+economy_calculate_monthly_revenue = {
+	hidden_effect = {
+		# Initialize all our working variables to 0
+		set_variable = { tax_gain = 0 }
+		set_variable = { civil_fac_tax = 0 }
+		set_variable = { military_fac_tax = 0 }
+		set_variable = { dockyard_tax = 0 }
+		set_variable = { office_tax = 0 }
+		set_variable = { population_tax = 0 }
+
+		# These variables are not tracked by default, so we must calculate them
+		set_variable = { office_sector_total = 0 }
+		set_variable = { population_total_m = 0 }
+
+		# Calculate dynamic totals for population and offices by looping through all owned states
+		every_owned_state = {
+			add_to_variable = { office_sector_total = office_sector }
+			add_to_variable = { population_total_m = state_manpower }
+		}
+
+		# Now, get the totals for built-in buildings. These should now be available.
+		set_variable = { industrial_complex_total = num_of_controlled_building_type@industrial_complex }
+		set_variable = { military_factory_total = num_of_controlled_building_type@arms_factory }
+		set_variable = { dockyard_total = num_of_controlled_building_type@dockyard }
+
+		# Log the dynamic values to verify they are being read correctly
+		log = "--- START DYNAMIC CALCULATION ---"
+		log = "Dynamic Offices Total: [?office_sector_total]"
+		log = "Dynamic Population Total: [?population_total_m]"
+		log = "Dynamic Civilian Factories: [?industrial_complex_total]"
+		log = "Dynamic Military Factories: [?military_factory_total]"
+		log = "Dynamic Dockyards: [?dockyard_total]"
+
+		# Calculate tax from each building type
+		set_variable = { civil_fac_tax = industrial_complex_total }
+		multiply_variable = { civil_fac_tax = 0.000000025 }
+		
+		set_variable = { military_fac_tax = military_factory_total }
+		multiply_variable = { military_fac_tax = 0.000000002 }
+		
+		set_variable = { dockyard_tax = dockyard_total }
+		multiply_variable = { dockyard_tax = 0.000000002 }
+
+		set_variable = { office_tax = office_sector_total }
+		multiply_variable = { office_tax = 0.00000005 }
+
+		# Apply the dynamic tax rates from your laws/ideas
+		multiply_variable = { civil_fac_tax = corporate_tax_rate }
+		multiply_variable = { military_fac_tax = corporate_tax_rate }
+		multiply_variable = { dockyard_tax = corporate_tax_rate }
+		multiply_variable = { office_tax = corporate_tax_rate }
+
+		# Calculate Population Tax
+		set_variable = { population_tax = population_total_m }
+		multiply_variable = { population_tax = population_tax_rate }
+		multiply_variable = { population_tax = 0.45 }
+
+		# Add all tax sources to the total
+		add_to_variable = { tax_gain = civil_fac_tax }
+		add_to_variable = { tax_gain = military_fac_tax }
+		add_to_variable = { tax_gain = dockyard_tax }
+		add_to_variable = { tax_gain = office_tax }
+		add_to_variable = { tax_gain = population_tax }
+		
+		# Log the final total tax gain
+		log = "Final total tax gain: [?tax_gain]"
+		
+		clamp_variable = { var = tax_gain min = 0 }
+	}
+}

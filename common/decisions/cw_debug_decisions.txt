@@ -1,0 +1,125 @@
+cw_gui_debug_mode = {
+	iw_gui_debug_open_new_gui = {
+
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_debug = yes
+		}
+
+		fire_only_once = no
+
+		cost = 0
+
+		complete_effect = {
+			set_country_flag = open_economy_gui
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	iw_gui_debug_close_new_gui = {
+
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_debug = yes
+		}
+
+		fire_only_once = no
+
+		cost = 0
+
+		complete_effect = {
+			clr_country_flag = open_economy_gui
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	add_to_variable = {
+
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_debug = yes
+		}
+
+		fire_only_once = no
+
+		cost = 0
+
+		complete_effect = {
+			set_variable = { num_civs = 0}
+			set_variable = { num_offices = 0}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	substract_from_variable = {
+
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_debug = yes
+		}
+
+		fire_only_once = no
+
+		cost = 0
+
+		complete_effect = {
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	other_variable_actions = {
+
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_debug = yes
+		}
+
+		fire_only_once = no
+
+		cost = 0
+
+		complete_effect = {
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
